@@ -15,7 +15,7 @@ Things to know:
 This repository is build to understand how to create a JavaFX project, use files (CSV) to store and load data, and format the JavaFX project.
 Link to the repository -> https://github.com/Pragyan10/StudentManagementSystem-ClassExample.git
 Things to know:
-1. You can clone the repository with -> git clone https://github.com/Pragyan10/ToDo-List-ClassExample.git
+1. You can clone the repository with -> git clone https://github.com/Pragyan10/StudentManagementSystem-ClassExample.git
 2. Once cloned, you can open the repository with Intellij IDEA.
 3. Try running the application, you will come across an error.
 4. Set up the application -> Go to run -> Go to edit configuration -> Setup the VM.
